@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/chinnusaikumar060798/chinnusaikumar06/_apis/build/status/ashokshingade24.pipelines-java?branchName=master)](https://dev.azure.com/chinnusaikumar060798/chinnusaikumar06/_build/latest?definitionId=2?branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
